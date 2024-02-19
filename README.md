@@ -23,13 +23,13 @@
 
 |Problem No.|이상휘|김주녁|김수아|
 |:---------------------------|:-----:|:-----:|:-----:|
-|[BOJ 2798](https://www.acmicpc.net/problem/2798) 블랙잭|:-:|:-:|:-:|
-|[BOJ 2941](https://www.acmicpc.net/problem/2941) 크로아티아 알파벳|:-:|:-:|:-:|
-|[BOJ 2567](https://www.acmicpc.net/problem/2567) 색종이-2|:-:|:-:|:-:|
-|[BOJ 1406](https://www.acmicpc.net/problem/1406) 에디터|:-:|:-:|:-:|
-|[BOJ 11725](https://www.acmicpc.net/problem/11725) 트리의 부모 찾기|:-:|:-:|:-:|
-|[BOJ 17281](https://www.acmicpc.net/problem/17281) ⚾|:-:|:-:|:-:|
-
+|[BOJ 1244](https://www.acmicpc.net/problem/1244) 스위치 켜고 끄기|:-:|:-:|:-:|
+|[BOJ 1592](https://www.acmicpc.net/problem/1592) 영식이와친구들|:-:|:-:|:-:|
+|[BOJ 2292](https://www.acmicpc.net/problem/2292) 벌집|:-:|:-:|:-:|
+|[BOJ 1309](https://www.acmicpc.net/problem/1309) 일곱난쟁이|:-:|:-:|:-:|
+|[BOJ 2477](https://www.acmicpc.net/problem/2477) 참외밭|:-:|:-:|:-:|
+|[BOJ 2527](https://www.acmicpc.net/problem/2527) 직사각형|:-:|:-:|:-:|
+|[BOJ 2563](https://www.acmicpc.net/problem/2563) 색종이|:-:|:-:|:-:|
 
 
 ### 스터디 방식
