@@ -55,23 +55,22 @@
 ### Commit Message 규칙
 
 - Command List
-  - [ADD(Pass/Fail)] : Git에 파일을 추가할때 문제풀이 성공 여부와 함께 표기
-  
+  - IM대비문제: BOJ_1062/ 가르침
 
       ```
-      [ADD/Pass] BOJ 2630
+      IM대비문제: BOJ_1062/ 가르침
       ```
   - UPDATE : 코드 안에 새로운 기능을 추가/삭제 할 때
   
 
       ```
-      [UPDATE] BOJ 2630 | StringBuilder 활용
+      [UPDATE] IM대비문제: BOJ_1062/ 가르침
       ```
   - REDO : 해당 문제를 다시 풀이할 때 (오답노트때 활용)
   
 
       ```
-      [REDO] BOJ 2630 (2022.08.09)
+      [REDO] IM대비문제: BOJ_1062/ 가르침
       ```
 
   - DELETE : Git에서 파일을 삭제할 때
@@ -81,17 +80,6 @@
       [DELETE] .gitignore
       ```
   - readme 파일 변경 시 commit message 규칙 x
-
-### git commit 순서
-```
-git branch 브랜치이름
-git checkout 브랜치이름
-폴더를 만들고 java 파일을 넣은 후
-git add .
-git commit -m "커밋메시지"
-git checkout main
-git pull origin main
-```
 
 
 
