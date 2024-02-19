@@ -23,7 +23,7 @@
 
 |Problem No.|이상휘|김주녁|김수아|
 |:---------------------------|:-----:|:-----:|:-----:|
-|[BOJ 1244](https://www.acmicpc.net/problem/1244) 스위치 켜고 끄기|heavy_check_mark|:-:|:-:|
+|[BOJ 1244](https://www.acmicpc.net/problem/1244) 스위치 켜고 끄기|:heavy_check_mark:|:-:|:-:|
 |[BOJ 1592](https://www.acmicpc.net/problem/1592) 영식이와친구들|:-:|:-:|:-:|
 |[BOJ 2292](https://www.acmicpc.net/problem/2292) 벌집|:-:|:-:|:-:|
 |[BOJ 1309](https://www.acmicpc.net/problem/1309) 일곱난쟁이|:-:|:-:|:-:|
