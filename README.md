@@ -2,7 +2,7 @@
 ## 👥 Members
 - 이상휘
 - 김주녁
-- 깅수아
+- 김수아
 
 
 
@@ -12,6 +12,25 @@
 
 ### 제출 마감 시간 (SUBMIT DUE)
 > Every MON,WED,FRI,SUN 11:59 PM
+
+### 주차별 문제
+# week03 (2월 3주차) :pencil:
+
+- 맞은 문제 :heavy_check_mark: 표기
+- 고민한 문제 :mag: 표기
+
+
+
+|Problem No.|이상휘|김주녁|김수아|
+|:---------------------------|:-----:|:-----:|:-----:|
+|[BOJ 2798](https://www.acmicpc.net/problem/2798) 블랙잭|:-:|:-:|:-:|
+|[BOJ 2941](https://www.acmicpc.net/problem/2941) 크로아티아 알파벳|:-:|:-:|:-:|
+|[BOJ 2567](https://www.acmicpc.net/problem/2567) 색종이-2|:-:|:-:|:-:|
+|[BOJ 1406](https://www.acmicpc.net/problem/1406) 에디터|:-:|:-:|:-:|
+|[BOJ 11725](https://www.acmicpc.net/problem/11725) 트리의 부모 찾기|:-:|:-:|:-:|
+|[BOJ 17281](https://www.acmicpc.net/problem/17281) ⚾|:-:|:-:|:-:|
+
+
 
 ### 스터디 방식
 
@@ -75,18 +94,4 @@ git pull origin main
 ```
 
 
-
-### 주차 별 문제 목록
----
-<table align="center">
-  <tr>
-    <td align="center">01</td>
-    <td align="center">
-      <a href="https://www.acmicpc.net/problem/1296"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" class="solvedac-tier" width=20px></a>
-      <a href="https://www.acmicpc.net/problem/2160"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" class="solvedac-tier" width=20px></a>
-      <a href="https://www.acmicpc.net/problem/10163"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" class="solvedac-tier" width=20px></a>
-      <a href="https://www.acmicpc.net/problem/27522"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" class="solvedac-tier" width=20px></a>
-      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/161990"><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-1-512.png"  width=25px></a>
-    </tr>
-</table>
 
